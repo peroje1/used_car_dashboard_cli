@@ -61,7 +61,7 @@ This will:
 
 - Populate it with realistic fake car listings using Faker and pandas
 
-## Launch the CLI Dashboard
+## 3) Launch the CLI Dashboard
 `python main.py`
 
 You'll be presented with a menu-driven interface to:
